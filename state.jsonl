@@ -1,1 +1,1 @@
-{"run_id":"41577539513","timestamp":"2026-11-03T04:20:58.755Z","harness_version":"bec4a0e7109c4db072c2bf7accc213af861c7596ca9909c677428661dbe1eab8:49d7b63813bb70dbbcd72af408ddc837eadee07401f773bba8d8a1ef8d0d1985","assignments":{"caveman":"yes","subagent_model":"large"}}
+{"run_id":"41964825520","timestamp":"2026-11-05T03:58:43.666Z","harness_version":"bec4a0e7109c4db072c2bf7accc213af861c7596ca9909c677428661dbe1eab8:49d7b63813bb70dbbcd72af408ddc837eadee07401f773bba8d8a1ef8d0d1985","assignments":{"caveman":"no","subagent_model":"small"}}
